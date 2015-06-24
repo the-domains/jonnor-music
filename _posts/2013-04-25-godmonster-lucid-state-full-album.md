@@ -36,7 +36,7 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=J-YaryHMERc'
 title: 'godMONSTER - Lucid State [FULL ALBUM]'
-dateModified: '2015-06-15T00:42:01.288Z'
+dateModified: '2015-06-24T07:24:16.268Z'
 sourcePath: _posts/2013-04-25-godmonster-lucid-state-full-album.md
 published: true
 _type: VideoObject
