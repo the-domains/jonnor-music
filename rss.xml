@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Untitled RSS Feed]]></title>
+        <description><![CDATA[Untitled RSS Feed]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 30 Jul 2015 20:08:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blackfield - Oxygen [HD] (with lyrics)]]></title>
+            <description><![CDATA[<article><h1>Blackfield - Oxygen [HD] (with lyrics)</h1><p>"There's no oxygen left on our planet. Everyone sleeping with their guns"</p><img src="https://i.ytimg.com/vi/MieKaPdwFto/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MieKaPdwFto</link>
+            <guid isPermaLink="false">2f9864ff-12ff-4a9a-9edd-7f8aa3b8cdc5</guid>
+            <pubDate>Thu, 30 Jul 2015 20:08:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
