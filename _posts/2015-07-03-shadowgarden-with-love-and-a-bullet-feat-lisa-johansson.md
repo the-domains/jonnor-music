@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Neiti369Perkele
-    url: 'http://www.youtube.com/user/Neiti369Perkele'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+isBasedOnUrl: 'https://www.youtube.com/watch?v=fISvYexvdSc'
+inLanguage: en
+starred: false
 keywords:
   - shadowgarden
   - duration
@@ -21,7 +14,11 @@ keywords:
   - love
   - shadowplay
 description: 'Band: Shadowgarden Song: With Love and a Bullet (Feat. Lisa Johansson) #3 Album: Ashen Release: August 27th 2010 Genre: Melancholic Dark Gothic Rock Label: Napalm Records Country: Sweden Line-Up: Vocals: Johan Ericson (Draconian, Doom:vs), +Lisa Johansson (Draconian) Guitars: Johan, Andreas Hindenäs Drums: Daniel Flores Bass: Björn Johansson #1 Shadowplay http://www.youtube.com/watch?v=OmTr5Ya8fUk #2 Last Summer #3 With Love and a Bullet (Feat.'
-inLanguage: en
+author:
+  - name: Neiti369Perkele
+    url: 'http://www.youtube.com/user/Neiti369Perkele'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=fISvYexvdSc&feature=applinks'
     type: ios
@@ -33,12 +30,17 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=fISvYexvdSc&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=fISvYexvdSc'
 title: 'Shadowgarden - With Love and a Bullet (Feat. Lisa Johansson) #3 (+Lyrics)'
 datePublished: '2015-07-03T03:09:11.640Z'
-dateModified: '2015-07-03T03:09:11.640Z'
+dateModified: '2015-07-31T08:19:42.129Z'
 sourcePath: _posts/2015-07-03-shadowgarden-with-love-and-a-bullet-feat-lisa-johansson.md
 published: true
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'http://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
