@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonnor-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 20:08:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 31 Jul 2015 08:05:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonnor-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Warrel Dane - When We Pray]]></title>
+            <description><![CDATA[<article><h1>Warrel Dane - When We Pray</h1><p>The world is ruled by fools and thieves With a flair for power and a taste for greed Now ask yourself do you feel betrayed? 'Cause nothing ever changes when we pray</p><img src="https://i.ytimg.com/vi/N8gMTlOzOD0/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=N8gMTlOzOD0</link>
+            <guid isPermaLink="false">b61534c7-e5cf-4b72-a817-bab01b80d229</guid>
+            <pubDate>Fri, 31 Jul 2015 08:05:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blackfield - Oxygen [HD] (with lyrics)]]></title>
             <description><![CDATA[<article><h1>Blackfield - Oxygen [HD] (with lyrics)</h1><p>"There's no oxygen left on our planet. Everyone sleeping with their guns"</p><img src="https://i.ytimg.com/vi/MieKaPdwFto/hqdefault.jpg"></article>]]></description>
