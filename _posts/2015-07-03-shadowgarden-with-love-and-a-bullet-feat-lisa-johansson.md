@@ -31,7 +31,7 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=fISvYexvdSc&feature=applinks'
     type: web
 title: 'Shadowgarden - With Love and a Bullet (Feat. Lisa Johansson) #3 (+Lyrics)'
-datePublished: '2015-07-03T03:09:11.640Z'
+datePublished: '2015-09-22T13:31:22.575Z'
 dateModified: '2015-07-31T08:19:42.129Z'
 sourcePath: _posts/2015-07-03-shadowgarden-with-love-and-a-bullet-feat-lisa-johansson.md
 published: true
