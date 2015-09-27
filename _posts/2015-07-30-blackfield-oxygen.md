@@ -31,7 +31,7 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=MieKaPdwFto&feature=applinks'
     type: web
 title: Blackfield - Oxygen
-datePublished: '2015-07-30T20:08:32.503Z'
+datePublished: '2015-09-27T14:49:07.229Z'
 tags:
   - ''
 authors: []
@@ -40,7 +40,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-dateModified: '2015-07-30T20:08:32.503Z'
 sourcePath: _posts/2015-07-30-blackfield-oxygen.md
 published: true
 _type: MediaObject
