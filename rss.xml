@@ -5,8 +5,15 @@
         <description><![CDATA[jonnor-music]]></description>
         <link>https://thegrid.ai/jonnor-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Sep 2015 14:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2015 11:49:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Sisters of Mercy - Lucretia My Reflection (extended)]]></title>
+            <description><![CDATA[<article><h1>The Sisters of Mercy - Lucretia My Reflection (extended)</h1><p>Artist: The Sisters of Mercy Song: Lucretia My Reflection (extended version)</p><img src="https://i.ytimg.com/vi/_VuzkzlqP9A/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_VuzkzlqP9A&amp;list=PL58956A9BCA9325F3</link>
+            <guid isPermaLink="false">f1b718c0-b940-4af8-b074-6901a8a54fb1</guid>
+            <pubDate>Mon, 28 Sep 2015 11:49:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eivør Palsdottir - Faroe Islands My Mother]]></title>
             <description><![CDATA[<article><h1>Eivør Palsdottir - Faroe Islands My Mother</h1><p>http://eivor.com/ - https://www.facebook.com/eivormusic What a loyalty to the roots. Don't miss her and Gustaf Ljunggren - if they perform where you live - this is a top quality music experience.</p><img src="http://i.ytimg.com/vi/0k8WD1gx8mg/hqdefault.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=N8gMTlOzOD0</link>
             <guid isPermaLink="false">b61534c7-e5cf-4b72-a817-bab01b80d229</guid>
             <pubDate>Fri, 31 Jul 2015 08:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blackfield - Oxygen [HD] (with lyrics)]]></title>
-            <description><![CDATA[<article><h1>Blackfield - Oxygen [HD] (with lyrics)</h1><p>"There's no oxygen left on our planet. Everyone sleeping with their guns"</p><img src="https://i.ytimg.com/vi/MieKaPdwFto/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=MieKaPdwFto</link>
-            <guid isPermaLink="false">2f9864ff-12ff-4a9a-9edd-7f8aa3b8cdc5</guid>
-            <pubDate>Sun, 27 Sep 2015 14:49:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
