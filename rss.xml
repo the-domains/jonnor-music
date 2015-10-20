@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-music]]></description>
         <link>https://thegrid.ai/jonnor-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 12:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 16:08:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VALRAVN - Kelling - (2010)]]></title>
+            <description><![CDATA[<article><h1>VALRAVN - Kelling - (2010)</h1><p>This is a fantastic Folk / Electronica / Experimental band. This band merges old Danish / Nordic medieval music with electronic music.</p><img src="https://i.ytimg.com/vi/H1IETU9TOtw/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=H1IETU9TOtw</link>
+            <guid isPermaLink="false">3c0cfc8c-9fe2-4667-97af-122d0577c158</guid>
+            <pubDate>Tue, 20 Oct 2015 16:06:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Faith And The Muse - Running Up That Hill]]></title>
             <description><![CDATA[<article><h1>Faith And The Muse - Running Up That Hill</h1><img src="https://i.ytimg.com/vi/nPwYW9y8_vE/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=TnpwuRlXbhk</link>
             <guid isPermaLink="false">3c565690-93c7-468a-9154-a8070769d8f6</guid>
             <pubDate>Mon, 14 Sep 2015 16:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Military Fashion show - And One]]></title>
-            <description><![CDATA[<article><h1>Military Fashion show - And One</h1><p>What can I do? What can I say? Choose your weapon, time to pay Forget about the second day We could be friends with a kiss in flow Choose your weapon, time to go A military fashion show</p><img src="https://i.ytimg.com/vi/O__i1b6GBmQ/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=O__i1b6GBmQ</link>
-            <guid isPermaLink="false">24a1375a-4bf5-4ae5-8266-84e805056303</guid>
-            <pubDate>Fri, 11 Sep 2015 08:15:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
