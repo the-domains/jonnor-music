@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-music]]></description>
         <link>https://thegrid.ai/jonnor-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 22:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 22:03:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Demians - Naive]]></title>
+            <description><![CDATA[<article><h1>Demians - Naive</h1><p>Beautiful song, beautiful album...</p><img src="https://i.ytimg.com/vi/XKeejR8xNiw/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XKeejR8xNiw</link>
+            <guid isPermaLink="false">ed9bfc31-65fa-4c51-bc4a-ee34c5591581</guid>
+            <pubDate>Sat, 24 Oct 2015 22:01:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indukti - Tusan Homichi Tuvota]]></title>
             <description><![CDATA[<article><h1>Indukti - Tusan Homichi Tuvota</h1><p>A bit bizzare, but brilliant song from this amazing band. From their new album, IDMEN.</p><img src="https://i.ytimg.com/vi/pzsOZIS7wq4/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=0k8WD1gx8mg</link>
             <guid isPermaLink="false">d0e87163-a45d-41fb-8449-5de8c07e2e99</guid>
             <pubDate>Mon, 14 Sep 2015 18:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christian Borlaug spiller Fanitullen på hardingfele]]></title>
-            <description><![CDATA[<article><h1>Christian Borlaug spiller Fanitullen på hardingfele</h1><p>'Devils Tune'</p><img src="https://i.ytimg.com/vi/cc-WGo4N8h8/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=cc-WGo4N8h8</link>
-            <guid isPermaLink="false">97434dbd-084a-4fa1-925b-c3f3008e2182</guid>
-            <pubDate>Mon, 14 Sep 2015 18:06:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
