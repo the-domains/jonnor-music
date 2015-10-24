@@ -4,8 +4,15 @@
         <description><![CDATA[jonnor-music]]></description>
         <link>https://thegrid.ai/jonnor-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 22:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 22:02:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jonnor-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VNV Nation - Beloved]]></title>
+            <description><![CDATA[<article><h1>VNV Nation - Beloved</h1><p>Track 11 from Futureperfect.</p><img src="https://i.ytimg.com/vi/Kfc3zcnrWMQ/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Kfc3zcnrWMQ</link>
+            <guid isPermaLink="false">3b7fb92b-da8a-408f-8ad6-2b9674c9ca43</guid>
+            <pubDate>Sat, 24 Oct 2015 22:01:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Covenant - Bullet (HQ)]]></title>
             <description><![CDATA[<article><h1>Covenant - Bullet (HQ)</h1><p>The classic track "Bullet" from Covenant's album Nothern Light. This version was encoded direct from the Bullet DVD. http://www.metropolis-mailorder.com/product.php?prodnum=MET+261</p><img src="https://i.ytimg.com/vi/3qIXIHAmcKU/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=N10WSpKxTbM</link>
             <guid isPermaLink="false">38f61e42-89bf-49e4-8343-1401a0e63668</guid>
             <pubDate>Mon, 14 Sep 2015 17:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blutengel - Kinder dieser Stadt]]></title>
-            <description><![CDATA[<article><h1>Blutengel - Kinder dieser Stadt</h1><p>Credits: Produktion Horris Film Regie Horris Kamera Oliver Köppel Tänzerin Larissa Puhlmann</p><img src="https://i.ytimg.com/vi/HDBmRNmZ6iY/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=HDBmRNmZ6iY</link>
-            <guid isPermaLink="false">ad71fd51-3b63-4103-995d-085676913dfb</guid>
-            <pubDate>Mon, 14 Sep 2015 16:59:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
