@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 19:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:08:34 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Phantom Vision - Ancient Dream]]></title>
+            <description><![CDATA[<article><h1>Phantom Vision - Ancient Dream</h1><p>Exporting directly from Portugal. Track taken from "Calling The Fiends" cd album 2004. http://www.discogs.com/Phantom-Vision-Calling-The-Fiends/release/819703</p><img src="https://i.ytimg.com/vi/k-_1HXmhIr8/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=k-_1HXmhIr8</link>
+            <guid isPermaLink="false">2bc2148f-537c-4e7d-8ada-27253b07755a</guid>
+            <pubDate>Fri, 06 Nov 2015 20:07:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Awakening - The Dark Romantics]]></title>
             <description><![CDATA[<article><h1>The Awakening - The Dark Romantics</h1><p>we are the dark romantics.. from The Awakening ... darklandsperu.net76.net</p><img src="https://i.ytimg.com/vi/3BH60mSQlpI/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=3qIXIHAmcKU</link>
             <guid isPermaLink="false">0171a1c3-8bc5-42c6-8393-2adc3e2c1afb</guid>
             <pubDate>Sat, 24 Oct 2015 22:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VALRAVN - Kelling - (2010)]]></title>
-            <description><![CDATA[<article><h1>VALRAVN - Kelling - (2010)</h1><p>This is a fantastic Folk / Electronica / Experimental band. This band merges old Danish / Nordic medieval music with electronic music.</p><img src="https://i.ytimg.com/vi/H1IETU9TOtw/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=H1IETU9TOtw</link>
-            <guid isPermaLink="false">3c0cfc8c-9fe2-4667-97af-122d0577c158</guid>
-            <pubDate>Tue, 20 Oct 2015 16:06:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
