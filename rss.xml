@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 17:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 18:09:32 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wolfsheim - The Sparrows And The Nightingales (long version)]]></title>
+            <description><![CDATA[<article><h1>Wolfsheim - The Sparrows And The Nightingales (long version)</h1><p>Uploaded by curie78 on 2011-09-23.</p><img src="https://i.ytimg.com/vi/1q7s5fdgbng/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1q7s5fdgbng</link>
+            <guid isPermaLink="false">df30c3c7-3047-4f7c-beed-6397a11b1b41</guid>
+            <pubDate>Fri, 06 Nov 2015 18:09:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deine Lakaien - Reincarnation]]></title>
             <description><![CDATA[<article><h1>Deine Lakaien - Reincarnation</h1><p>Deine Lakaien Reincarnation Dark Star 1991</p><img src="https://i.ytimg.com/vi/U7vCm7U3-Bc/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://music.jonnor.com/the-mist-of-avalon-this-time-ver-202/index.html</link>
             <guid isPermaLink="false">a22d8274-4cc2-465f-938c-5d2d165e7752</guid>
             <pubDate>Thu, 15 Oct 2015 21:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Subsignal - The Sea]]></title>
-            <description><![CDATA[<article><h1>Subsignal - The Sea</h1><img src="https://i.ytimg.com/vi/fJM8Fs15fL0/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fJM8Fs15fL0</link>
-            <guid isPermaLink="false">3da81004-857d-4d49-8fea-a63c44dadf56</guid>
-            <pubDate>Fri, 09 Oct 2015 12:21:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
