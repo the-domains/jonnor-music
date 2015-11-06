@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 17:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 17:12:17 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deine Lakaien - Reincarnation]]></title>
+            <description><![CDATA[<article><h1>Deine Lakaien - Reincarnation</h1><p>Deine Lakaien Reincarnation Dark Star 1991</p><img src="https://i.ytimg.com/vi/U7vCm7U3-Bc/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=U7vCm7U3-Bc&amp;index=44&amp;list=PLB2CD92050E0F9B8E</link>
+            <guid isPermaLink="false">22ae1e95-0d5b-4023-84d4-94e7e222b864</guid>
+            <pubDate>Fri, 06 Nov 2015 17:12:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lacuna coil - Angel's Punishment]]></title>
             <description><![CDATA[<article><h1>Lacuna coil - Angel's Punishment</h1><p>Uploaded by Melissa Moretti on 2011-06-21.</p><img src="https://i.ytimg.com/vi/BpAJwzbVyM8/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fJM8Fs15fL0</link>
             <guid isPermaLink="false">3da81004-857d-4d49-8fea-a63c44dadf56</guid>
             <pubDate>Fri, 09 Oct 2015 12:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sisters of Mercy - Lucretia My Reflection (extended)]]></title>
-            <description><![CDATA[<article><h1>The Sisters of Mercy - Lucretia My Reflection (extended)</h1><p>Artist: The Sisters of Mercy Song: Lucretia My Reflection (extended version)</p><img src="https://i.ytimg.com/vi/_VuzkzlqP9A/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_VuzkzlqP9A&amp;list=PL58956A9BCA9325F3</link>
-            <guid isPermaLink="false">f1b718c0-b940-4af8-b074-6901a8a54fb1</guid>
-            <pubDate>Mon, 28 Sep 2015 11:49:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
