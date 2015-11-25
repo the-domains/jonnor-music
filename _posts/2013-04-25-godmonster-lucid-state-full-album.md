@@ -1,14 +1,7 @@
 ---
-author:
-  - name: godMONSTERmusic
-    url: 'http://www.youtube.com/user/godMONSTERmusic'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+isBasedOnUrl: 'https://www.youtube.com/watch?v=J-YaryHMERc'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - godmonstermusic
@@ -21,8 +14,12 @@ keywords:
   - taylorswiftvevo
   - chal0099
 description: ''
-inLanguage: en
-datePublished: '2013-04-25T15:00:33.000Z'
+author:
+  - name: godMONSTERmusic
+    url: 'http://www.youtube.com/user/godMONSTERmusic'
+    avatar: {}
+related: []
+datePublished: '2015-11-25T23:25:03.178Z'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=J-YaryHMERc&feature=applinks'
     type: ios
@@ -34,11 +31,21 @@ app_links:
     package: com.google.android.youtube
   - url: 'http://www.youtube.com/watch?v=J-YaryHMERc&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=J-YaryHMERc'
-title: 'godMONSTER - Lucid State [FULL ALBUM]'
+title: godMONSTER - Lucid State
 dateModified: '2015-06-24T07:24:16.268Z'
 sourcePath: _posts/2013-04-25-godmonster-lucid-state-full-album.md
 published: true
+tags:
+  - ''
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'http://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: false
+inNav: false
 _type: VideoObject
 _context: 'http://schema.org'
 
