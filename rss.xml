@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 23:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 23:25:51 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[godMONSTER - Lucid State]]></title>
+            <description><![CDATA[<article><h1>godMONSTER - Lucid State</h1><img src="https://i.ytimg.com/vi/J-YaryHMERc/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=J-YaryHMERc</link>
+            <guid isPermaLink="false">df3c640e-7e0e-4432-b532-4000af6e14a0</guid>
+            <pubDate>Wed, 25 Nov 2015 23:25:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shadowgarden - With Love and a Bullet (Feat. Lisa Johansson) #3 (+Lyrics)]]></title>
             <description><![CDATA[<article><h1>Shadowgarden - With Love and a Bullet (Feat. Lisa Johansson) #3 (+Lyrics)</h1><p>No passion, no spark. No candles burning in the dark. So empty, damn you're cold. Break me down and swallow my soul</p><img src="https://i.ytimg.com/vi/fISvYexvdSc/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=sxbyqtYkx-Q</link>
             <guid isPermaLink="false">c91ce06f-3326-447c-88b4-c0f2ecaeb888</guid>
             <pubDate>Wed, 11 Nov 2015 01:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inkubus Sukkubus - Heart of Lilith - Legendado]]></title>
-            <description><![CDATA[<article><h1>Inkubus Sukkubus - Heart of Lilith - Legendado</h1><p>Music by: Inkubus Sukkubus Video by: Luiz Carlos O Jr.</p><img src="https://i.ytimg.com/vi/CpkvZW5gVa4/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=CpkvZW5gVa4</link>
-            <guid isPermaLink="false">c8e12d1e-58a6-4bc7-8f10-e7998be4c6a1</guid>
-            <pubDate>Wed, 11 Nov 2015 01:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
