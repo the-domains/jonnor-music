@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 13:19:04 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deine Lakaien - Reincarnation]]></title>
+            <description><![CDATA[<article><h1>Deine Lakaien - Reincarnation</h1><p>Deine Lakaien Reincarnation Dark Star 1991</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c459c4aba0de2659fa8a0ecead2d01b658a70fe.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=U7vCm7U3-Bc</link>
+            <guid isPermaLink="false">5f5c02b6-86e4-4a3a-aad2-389b4f57ff2a</guid>
+            <pubDate>Mon, 04 Jan 2016 13:18:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Siouxsie And The Banshees - Israel]]></title>
             <description><![CDATA[<article><h1>Siouxsie And The Banshees - Israel</h1><p>Music video by Siouxsie And The Banshees performing Israel. (c) 2014 UMC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b09dbe7533bbd4efb58adb7cb2b870438251ae6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fISvYexvdSc</link>
             <guid isPermaLink="false">354299c4-7263-40bb-bc7c-c91302a589fd</guid>
             <pubDate>Wed, 25 Nov 2015 23:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anathema - The Storm Before The Calm (Universal DVD)]]></title>
-            <description><![CDATA[<article><h1>Anathema - The Storm Before The Calm (Universal DVD)</h1><p>Anathema The Storm Before The Calm (Universal DVD)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eaf43deafec1df06e5d27013030fa1f5604b46d1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=m4fMCj0zt68</link>
-            <guid isPermaLink="false">74aab786-e065-46e6-b909-f34fc04b7887</guid>
-            <pubDate>Wed, 25 Nov 2015 22:26:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
