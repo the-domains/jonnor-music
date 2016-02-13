@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.jonnor.com/2011/09/silent-stream-of-godless-elegy-navaz/'
+isBasedOnUrl: 'http://www.jonnor.com/2009/12/subsignal-beautiful-monstrous/'
 inLanguage: en
 starred: false
 keywords:
+  - sieges
   - album
-  - vaz
+  - paramount
+  - navigating
+  - wankery
   - metal
-  - music
-  - czech
-  - samodiva
-  - illuminandi
-  - sudice
-  - moravian
-  - elegy
-description: "I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But \"Návaz\", the latest album from Czech band Silent Stream Of Godless Elegy, is a little gem, even if I can't understand a word of the Czech lyrics."
-datePublished: '2016-02-13T22:32:38.077Z'
-dateModified: '2016-02-13T22:32:32.981Z'
+  - harder
+  - webshop
+  - menses
+  - arno
+description: 'Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens.'
+datePublished: '2016-02-13T22:48:18.643Z'
+dateModified: '2016-02-13T22:24:19.743Z'
 author: []
 related: []
 app_links: []
-title: Silent Stream Of Godless Elegy – Návaz
+title: 'Subsignal – Beautiful & Monstrous'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 authors: []
@@ -35,23 +35,14 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Silent Stream Of Godless Elegy -- Návaz
+### Subsignal -- Beautiful & Monstrous
 
-I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But "Návaz", the latest album from Czech band [Silent Stream Of Godless Elegy][0], is a little gem, even if I can't understand a word of the Czech lyrics.  
-Návaz, like the previous albums is a doom metal album with strong influences from [Moravian][1] folk music and lore. What I like most about this album are the heavy contrasts: Quick, playful violins against slow, drudging guitar riffs; soft female voice against harsh male voices; traditional folk instruments and musical themes against modern metal.
+Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens. As I am a huge fan of those two album, this release was filled with both excitement and a bit of anxiousness. Will they try to do the same and fail? Will it be something entirely different? Awesome different or crappy different?
 
-Here is the opening track, Mokoš, which I think is quite representative:
+I've heard through it a number of times the last week and a half, and I can say that it is very much in the same direction as Paramount. Meaning that the music is mostly on the soft side (yet with plenty of contrasting harder parts), progressive and technical but without wankery. While some are probably disappointed that its not harder or more aggressive ("you call that metal!?") and find the lead/backing vocal interaction a bit cheesy, it's exactly what I loved about Sieges Even. Hard to tell if I will come back to this album again and again as I do with Paramount and Art of Navigating by the Stars, but right here and now _it's perfect_.
 
-Those who don't have the stomach for the above, thinking it is too noisy, might still enjoy the songs [Sudice][2] or [Samodiva][3]. More samples are available on their [Myspace page][4]. You can find the album [at Amazon][5].
+Youtube has plenty of songs from the album if you want to hear more, or you can just go buy it from [their webshop][0].
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][1]
 
-If you liked this music you should also consider checking out In Via (2010) by [Illuminandi][6]. Style wise it leans closer to gothic metal, more gloomy and bleak, but overall very much the same type of feel.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][7]
-
-[0]: http://www.ssoge.com/
-[1]: http://en.wikipedia.org/wiki/Moravia
-[2]: http://www.youtube.com/watch?v=C2kGHVE2gV0&feature=artist
-[3]: http://www.youtube.com/watch?v=vP3B7rDCkoI&feature=artist
-[4]: http://www.myspace.com/ssoge
-[5]: http://www.amazon.com/Navaz-Silent-Stream-Godless-Elegy/dp/B004CUA982
-[6]: http://www.illuminandi.kdm.pl/
-[7]: http://www.jonnor.com/wp/?flattrss_redirect&id=460&md5=b72ca400e22e9fc7ad4304af0211c831
+[0]: http://www.subsignalband.com/shop/index.php
+[1]: http://www.jonnor.com/wp/?flattrss_redirect&id=104&md5=53f105e08743d44636401b583abe68cd
