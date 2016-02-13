@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.jonnor.com/2010/06/its-a-tragedy/'
+isBasedOnUrl: 'http://www.jonnor.com/2009/12/musical-highlights-of-2009/'
 inLanguage: en
 starred: false
 keywords:
-  - tragedy
-  - mask
-  - pretending
-  - hide
-  - solution
-  - else
-  - someone
-  - everything
-  - quick
-  - friends
-description: "It's a tragedy, that some hide behind a mask. Pretending that everything is good, pretending to be someone else. It's a tragedy, that the mask is never dropped. Not for friends, not for family. It's a tragedy, that some find life so hard That a quick end seems the best solution."
-datePublished: '2016-02-13T22:22:45.064Z'
-dateModified: '2016-02-13T22:22:33.030Z'
+  - favorites
+  - oddity
+  - advent
+  - christmas
+  - posts
+  - occasional
+  - albums
+  - calendar
+  - disappointments
+  - otherwise
+description: "I originally planned on doing a post on some of my favorite albums of 2009. But I was having some trouble picking out only a few, and I don't really want to limit myself to my favorites. So I'm doing a series of posts, showing some favorites, some disappointments and the occasional oddity (musical or otherwise)."
+datePublished: '2016-02-13T22:22:55.610Z'
+dateModified: '2016-02-13T22:21:54.241Z'
 author: []
 related: []
 app_links: []
-title: Tragedy
+title: Musical Highlights of 2009
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 authors: []
@@ -35,20 +35,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Tragedy
+# Musical Highlights of 2009
 
-It's a tragedy, that some hide behind a mask.  
-Pretending that everything is good,  
-pretending to be someone else.  
-It's a tragedy, that the mask is never dropped.  
-Not for friends,  
-not for family.
-
-It's a tragedy, that some find life so hard  
-That a quick end seems the best solution.  
-It's a tragedy, and it happens every day.
-
-To H.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][0]
-
-[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=168&md5=231cb41277028586c09c4d5fd2009647
+I originally planned on doing a post on some of my favorite albums of 2009\. But I was having some trouble picking out only a few, and I don't really want to limit myself to my favorites. So I'm doing a series of posts, showing some favorites, some disappointments and the occasional oddity (musical or otherwise). Consider it a kind a of Christmas/advent calendar, if you want.
