@@ -7,22 +7,22 @@ publisher:
   favicon: null
   domain: www.jonnor.com
 keywords:
-  - sieges
   - album
-  - paramount
-  - navigating
-  - wankery
+  - intro
+  - song
+  - gothic
+  - theatre
+  - variation
+  - verse
   - metal
-  - harder
-  - webshop
-  - menses
-  - arno
-description: 'Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens.'
+  - okey
+  - da-da-da-da-da-da
+description: "The bands mentioned in the title have some commonalities: All are female fronted bands in the gothic metal genre or there about All have albums that I'm a big fan of (tho those are a bit old) All released new albums this year (\"Forever is the World\", \"Shallow Life\", \"the 13th Floor\" respectivly) All the new albums were major disappointments."
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:07.184Z'
-dateModified: '2016-02-13T18:05:29.898Z'
+datePublished: '2016-02-13T18:09:07.293Z'
+dateModified: '2016-02-13T18:05:27.887Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,12 +35,28 @@ _type: Article
 ---
 # Jon Nordby
 
-Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens. As I am a huge fan of those two album, this release was filled with both excitement and a bit of anxiousness. Will they try to do the same and fail? Will it be something entirely different? Awesome different or crappy different?
+The bands mentioned in the title have some commonalities:
 
-I've heard through it a number of times the last week and a half, and I can say that it is very much in the same direction as Paramount. Meaning that the music is mostly on the soft side (yet with plenty of contrasting harder parts), progressive and technical but without wankery. While some are probably disappointed that its not harder or more aggressive ("you call that metal!?") and find the lead/backing vocal interaction a bit cheesy, it's exactly what I loved about Sieges Even. Hard to tell if I will come back to this album again and again as I do with Paramount and Art of Navigating by the Stars, but right here and now _it's perfect_.
+All are female fronted bands in the gothic metal genre or there about  
+All have albums that I'm a big fan of (tho those are a bit old)  
+All released new albums this year ("Forever is the World", "Shallow Life", "the 13th Floor" respectivly)  
+All the new albums were major disappointments. At least for me
 
-Youtube has plenty of songs from the album if you want to hear more, or you can just go buy it from [their webshop][0].
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][1]
+Now, I'm not ruling out that my taste in music has changed or that I'm otherwise biased. But in any case the end result is the same; I'm enjoying these albums less than the previous ones.
 
-[0]: http://www.subsignalband.com/shop/index.php
-[1]: http://www.jonnor.com/wp/?flattrss_redirect&id=104&md5=53f105e08743d44636401b583abe68cd
+Both Theatre of Tradegy and Sirenia have new female vocalists, and I think that they are most of the problem. They just seem like such dolls! There is nothing wrong with their singing per se, but it seems thin, pale and lifeless. Where is the variation, contrast and edge? [Gone][0].
+
+In Theatre of Tragedy I'm also missing the previous cybergoth/electronica influence so [prominent on][1] Assembly (2002) and more blended in with gothic metal on Storm (2006). Now it just feels plain.
+
+As for Lacuna Coil here is a song illustrating the decline?\*
+
+The intro is not good, and when the insanely stock riff after that comes in the refrain; Da-da-da-da-da-da I'm thinking - "okey, this sucks". That thought never really left. The verses that follows are just a tiny variation of the intro, and the entire song is just intro-\>refain-\>verse-\>REPEAT. Original huh. And the lyrics could just as easily have been used for Britneys next hit when you think about it. Not to mention the "fake" bass beats that are used for emphasis on several spots. Ugh.
+
+But I bet the record company, MTV and casual listeners were pleased. In their world it doesn't take more than a pretty chick (that she has a bit of attitude helps too) and to keep the music generic enough to be "accessible" to make a "great song". I sometimes wish that I too was that easy to please. But not today. \*puts on Epica - the Divine Conspiracy\*
+
+\* to be fair, this is probably the worst song on the album. If you want to check out one that I actually think is pretty good, check track 1: Survive
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][2]
+
+[0]: http://www.youtube.com/watch?v=hyPCC_mdwzE
+[1]: http://www.youtube.com/watch?v=qu2k-r5DF6s
+[2]: http://www.jonnor.com/wp/?flattrss_redirect&id=109&md5=e1439dff9ff8d1d7c05a683305f3abef
