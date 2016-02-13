@@ -7,22 +7,22 @@ publisher:
   favicon: null
   domain: www.jonnor.com
 keywords:
-  - albums
-  - vocals
+  - album
+  - vaz
+  - metal
   - music
-  - disharmony
-  - song-structures
-  - near-instrumental
-  - gist
-  - perhaps
-  - requisite
-  - melody
-description: 'This album is one of, if not the absolute favorite of mine this year. Which is surprising since it has nearly no vocals at all. Typically good vocals is almost a requisite for me liking an album. But these guys from Sharon, Massachusetts, USA pulled it off.'
+  - czech
+  - samodiva
+  - illuminandi
+  - sudice
+  - moravian
+  - elegy
+description: "I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But \"Návaz\", the latest album from Czech band Silent Stream Of Godless Elegy, is a little gem, even if I can't understand a word of the Czech lyrics."
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:08.672Z'
-dateModified: '2016-02-13T18:05:29.121Z'
+datePublished: '2016-02-13T18:09:08.674Z'
+dateModified: '2016-02-13T18:05:25.067Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,13 +35,21 @@ _type: Article
 ---
 # Jon Nordby
 
-This album is one of, if not the absolute favorite of mine this year. Which is surprising since it has nearly no vocals at all. Typically good vocals is almost a requisite for me liking an album. But these guys from Sharon, Massachusetts, USA pulled it off. An near-instrumental album that I not only liked but blew my mind.
+I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But "Návaz", the latest album from Czech band [Silent Stream Of Godless Elegy][0], is a little gem, even if I can't understand a word of the Czech lyrics.  
+Návaz, like the previous albums is a doom metal album with strong influences from [Moravian][1] folk music and lore. What I like most about this album are the heavy contrasts: Quick, playful violins against slow, drudging guitar riffs; soft female voice against harsh male voices; traditional folk instruments and musical themes against modern metal.
 
-I'm not sure if I can explain just why that is though. Perhaps it is the kind of chaos that characterizes the more hard and dominant parts of the musics at times. Contrasted with the very smooth and pretty yet complex softer parts, . Combined with the fleeting song-structures so that the song not as much transitions as it evolves.  
-Perhaps that was the gist of it. Those elements were definitively involved.
+Here is the opening track, Mokoš, which I think is quite representative:
 
-When I had heard it through I _had_ to look for similar music. The only thing that really sticked there was North - Ruins (2007), which really is a lesson in melody through disharmony.  
-Both albums are highly recommended to anyone looking for something new. Do note that this probably is not the easiest music to like, so be prepared to give it some effort.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][0]
+Those who don't have the stomach for the above, thinking it is too noisy, might still enjoy the songs [Sudice][2] or [Samodiva][3]. More samples are available on their [Myspace page][4]. You can find the album [at Amazon][5].
 
-[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=99&md5=e97710b887ab311def085a06ad5a166e
+If you liked this music you should also consider checking out In Via (2010) by [Illuminandi][6]. Style wise it leans closer to gothic metal, more gloomy and bleak, but overall very much the same type of feel.
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][7]
+
+[0]: http://www.ssoge.com/
+[1]: http://en.wikipedia.org/wiki/Moravia
+[2]: http://www.youtube.com/watch?v=C2kGHVE2gV0&feature=artist
+[3]: http://www.youtube.com/watch?v=vP3B7rDCkoI&feature=artist
+[4]: http://www.myspace.com/ssoge
+[5]: http://www.amazon.com/Navaz-Silent-Stream-Godless-Elegy/dp/B004CUA982
+[6]: http://www.illuminandi.kdm.pl/
+[7]: http://www.jonnor.com/wp/?flattrss_redirect&id=460&md5=b72ca400e22e9fc7ad4304af0211c831
