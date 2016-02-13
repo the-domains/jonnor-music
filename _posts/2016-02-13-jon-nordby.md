@@ -8,21 +8,21 @@ publisher:
   domain: www.jonnor.com
 keywords:
   - album
-  - opus
-  - drummer
-  - arise
-  - track
-  - assimulate
-  - metal
+  - hell
+  - dokken
+  - whaaat
   - musicianship
-  - band
-  - progressive
-description: "If you're a fan of traditional progressive metal, you might want to check out Lost in Thought s debut album: Opus Arise. Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar."
+  - rockin
+  - cheesy
+  - catchy
+  - quite
+  - music
+description: "Whaaat, something not metal? And no, I'm not gonna slaughter it. Cause I actually like it, and have in fact listened to it quite a bit. Yes, its cheesy as hell, and is nothing special far as musicianship go. But quite frankly, its catchy as hell and straight out rockin'."
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:07.591Z'
-dateModified: '2016-02-13T18:05:25.680Z'
+datePublished: '2016-02-13T18:09:07.845Z'
+dateModified: '2016-02-13T18:05:26.821Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,23 +35,10 @@ _type: Article
 ---
 # Jon Nordby
 
-If you're a fan of traditional progressive metal, you might want to check out [Lost in Thought][0] s debut album: Opus Arise.
+Whaaat, something not metal? And no, I'm not gonna slaughter it. Cause I actually like it, and have in fact listened to it quite a bit. Yes, its cheesy as hell, and is nothing special far as musicianship go. But quite frankly, its catchy as hell and straight out rockin'. Can't resist it!
 
-Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar. On the downside, this is not a very original album by any measure, you will not find too many fresh ideas or expressions in this album. So if you're looking for something that takes progressive metal in a new direction; look elsewhere.
+The production on this debut album is flawless and the quality of the songs are pretty even over the entire album. While I get tired of this kind of music after a while, I'm sure those who hold this kind of music close to the heart will love this album through and through into eternity.  
+If you think you might be that type you should check out Dokken - Lightning Strikes First (2008) while you're at it.
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][0]
 
-Here is the opening track, Beyond the Flames.
-
-My favorite tracks include the slower [Blood Red Diamond][1] and the kicking closing track Assimulate, Destroy. You can find the album [on Amazon][2].
-
-Sadly the band [had a car accident][3] on their first European tour in late May, which left the drummer with a broken leg and having to undergo surgery. [A news post comment][4] from the drummer, and [a recent interview][5] seems to indicate that the recovery so far is going OK. Hopefully he will be fully recovered, back to playing drums, soon.
-
-A friend told me that I should blog about music again. This was a shot at doing just that.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][6]
-
-[0]: http://lostinthoughtband.com/Default.aspx
-[1]: http://www.youtube.com/watch?v=vfCGJXzFofM
-[2]: http://www.amazon.com/Opus-Arise-Lost-Thought/dp/B004SFIN3E
-[3]: http://www.bbc.co.uk/news/uk-wales-south-west-wales-13521199
-[4]: http://www.serenity-band.com/index.php/newsarticle/items/lost-in-thought-car-accident.html
-[5]: http://www.therocktologist.com/lost-in-thought-interview.html
-[6]: http://www.jonnor.com/wp/?flattrss_redirect&id=441&md5=c6a4fe427fc2820b9294a6478ffe1686
+[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=102&md5=a2e49796753665893a441f8bb4525733
