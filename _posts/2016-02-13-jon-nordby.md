@@ -7,22 +7,22 @@ publisher:
   favicon: null
   domain: www.jonnor.com
 keywords:
-  - gojira
-  - '2010'
-  - berlin
-  - porcupine
-  - einaudi
-  - knaack
-  - sabaton
-  - poznan
-  - kick-ass
-  - oceansize
-description: "A few weeks back I saw Gojira (warning: horrible flash based site, even the myspace page is better) at Knaack here in Berlin. While I hadn't listened to Gojira much before going, it was a great show. Nice venue, sound was good, kick-ass music and performance, and the crowd loved it."
+  - albums
+  - vocals
+  - music
+  - disharmony
+  - song-structures
+  - near-instrumental
+  - gist
+  - perhaps
+  - requisite
+  - melody
+description: 'This album is one of, if not the absolute favorite of mine this year. Which is surprising since it has nearly no vocals at all. Typically good vocals is almost a requisite for me liking an album. But these guys from Sharon, Massachusetts, USA pulled it off.'
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:08.208Z'
-dateModified: '2016-02-13T18:05:26.778Z'
+datePublished: '2016-02-13T18:09:08.672Z'
+dateModified: '2016-02-13T18:05:29.121Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,22 +35,13 @@ _type: Article
 ---
 # Jon Nordby
 
-A few weeks back I saw [Gojira][0] (warning: horrible flash based site, even [the myspace page][1] is better) at [Knaack][2] here in Berlin. While I hadn't listened to Gojira much before going, it was a great show. Nice venue, sound was good, kick-ass music and performance, and the crowd loved it. What more can you ask for?  
-The event was promoted by a company called [Trinity Concerts][3], and apparently they do a whole bunch of good stuff this autumn. Here are the ones I plan to go to between now and Christmas:
+This album is one of, if not the absolute favorite of mine this year. Which is surprising since it has nearly no vocals at all. Typically good vocals is almost a requisite for me liking an album. But these guys from Sharon, Massachusetts, USA pulled it off. An near-instrumental album that I not only liked but blew my mind.
 
-* 22.09.2010 - This Will Destroy You
-* 02.10.2010 - Anathema
-* 06.10.2010 - Porcupine Tree + Oceansize
-* 05.11.2010 - Alter Bridge
-* 02.12.2010 - Irepress & Constants
-* 08.12.2010 - Caspian
+I'm not sure if I can explain just why that is though. Perhaps it is the kind of chaos that characterizes the more hard and dominant parts of the musics at times. Contrasted with the very smooth and pretty yet complex softer parts, . Combined with the fleeting song-structures so that the song not as much transitions as it evolves.  
+Perhaps that was the gist of it. Those elements were definitively involved.
 
-I might squeeze in Dark Tranquillity or Tarot or Apocalyptica on the 24th of October, and Ludovico Einaudi on the 16th of November too. Maybe even Sabaton, depending on how good their new album is. I was also hoping to be able to see Epica while they are on tour, but they are not playing in Berlin (!), and the Oslo date does not fit with when I want to go back to Norway. I guess Poznan is only 3 hours away...  
-In any case, I think I know one or two people that are mighty jealous of me right now. And they ought to be.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][4]
+When I had heard it through I _had_ to look for similar music. The only thing that really sticked there was North - Ruins (2007), which really is a lesson in melody through disharmony.  
+Both albums are highly recommended to anyone looking for something new. Do note that this probably is not the easiest music to like, so be prepared to give it some effort.
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][0]
 
-[0]: http://www.gojira-music.com/
-[1]: http://www.myspace.com/gojira
-[2]: http://www.knaack-berlin.de/
-[3]: http://www.trinitymusic.de/
-[4]: http://www.jonnor.com/wp/?flattrss_redirect&id=257&md5=8ab7099ac36e078ba71a5a79dfa12c3b
+[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=99&md5=e97710b887ab311def085a06ad5a166e
