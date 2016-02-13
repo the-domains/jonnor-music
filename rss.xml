@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 18:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 18:11:01 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jon Nordby]]></title>
+            <description><![CDATA[<article><h1>Jon Nordby</h1><p>I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But "Návaz", the latest album from Czech band Silent Stream Of Godless Elegy, is a little gem, even if I can't understand a word of the Czech lyrics. Návaz, like the previous albums is a doom metal album with strong influences from Moravian folk music and lore. What I like most about this album are the heavy contrasts: Quick, playful violins against slow, drudging guitar riffs; soft female voice against harsh male voices; traditional folk instruments and musical themes against modern metal.</p></article>]]></description>
+            <link>http://music.jonnor.com/jon-nordby/index.html</link>
+            <guid isPermaLink="false">a5e5b413-7a95-4212-97f7-a7459a5ce2fc</guid>
+            <pubDate>Sat, 13 Feb 2016 18:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jon Nordby]]></title>
             <description><![CDATA[<article><h1>Jon Nordby</h1><p>This album is one of, if not the absolute favorite of mine this year. Which is surprising since it has nearly no vocals at all. Typically good vocals is almost a requisite for me liking an album. But these guys from Sharon, Massachusetts, USA pulled it off. An near-instrumental album that I not only liked but blew my mind.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=-TAlS7J9Ofk</link>
             <guid isPermaLink="false">b82e8129-3abf-4e91-9077-becbafdcd946</guid>
             <pubDate>Mon, 28 Dec 2015 15:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wolfsheim - The Sparrows And The Nightingales (long version)]]></title>
-            <description><![CDATA[<article><h1>Wolfsheim - The Sparrows And The Nightingales (long version)</h1><p>Uploaded by curie78 on 2011-09-23.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d3d52c553f8ddef335c71508709db7a350fd641.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=1q7s5fdgbng</link>
-            <guid isPermaLink="false">40e3202a-9a5f-458b-b712-54d2ef9f99c4</guid>
-            <pubDate>Fri, 18 Dec 2015 18:07:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
