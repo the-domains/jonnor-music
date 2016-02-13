@@ -2,27 +2,27 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.jonnor.com/2010/09/berlin-concerts-awesomeness/'
+isBasedOnUrl: 'http://www.jonnor.com/2011/08/lost-in-thought-opus-arise/'
 inLanguage: en
 starred: false
 keywords:
-  - gojira
-  - '2010'
-  - berlin
-  - porcupine
-  - einaudi
-  - knaack
-  - sabaton
-  - poznan
-  - kick-ass
-  - oceansize
-description: "A few weeks back I saw Gojira (warning: horrible flash based site, even the myspace page is better) at Knaack here in Berlin. While I hadn't listened to Gojira much before going, it was a great show. Nice venue, sound was good, kick-ass music and performance, and the crowd loved it."
-datePublished: '2016-02-13T22:29:10.734Z'
-dateModified: '2016-02-13T22:29:03.200Z'
+  - album
+  - opus
+  - drummer
+  - arise
+  - track
+  - assimulate
+  - metal
+  - musicianship
+  - band
+  - progressive
+description: "If you're a fan of traditional progressive metal, you might want to check out Lost in Thought s debut album: Opus Arise. Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar."
+datePublished: '2016-02-13T22:29:38.767Z'
+dateModified: '2016-02-13T22:29:30.295Z'
 author: []
 related: []
 app_links: []
-title: Berlin concerts awesomeness
+title: Lost in Thought – Opus Arise
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 authors: []
@@ -35,24 +35,25 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Berlin concerts awesomeness
+# Lost in Thought -- Opus Arise
 
-A few weeks back I saw [Gojira][0] (warning: horrible flash based site, even [the myspace page][1] is better) at [Knaack][2] here in Berlin. While I hadn't listened to Gojira much before going, it was a great show. Nice venue, sound was good, kick-ass music and performance, and the crowd loved it. What more can you ask for?  
-The event was promoted by a company called [Trinity Concerts][3], and apparently they do a whole bunch of good stuff this autumn. Here are the ones I plan to go to between now and Christmas:
+If you're a fan of traditional progressive metal, you might want to check out [Lost in Thought][0] s debut album: Opus Arise.
 
-* 22.09.2010 - This Will Destroy You
-* 02.10.2010 - Anathema
-* 06.10.2010 - Porcupine Tree + Oceansize
-* 05.11.2010 - Alter Bridge
-* 02.12.2010 - Irepress & Constants
-* 08.12.2010 - Caspian
+Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar. On the downside, this is not a very original album by any measure, you will not find too many fresh ideas or expressions in this album. So if you're looking for something that takes progressive metal in a new direction; look elsewhere.
 
-I might squeeze in Dark Tranquillity or Tarot or Apocalyptica on the 24th of October, and Ludovico Einaudi on the 16th of November too. Maybe even Sabaton, depending on how good their new album is. I was also hoping to be able to see Epica while they are on tour, but they are not playing in Berlin (!), and the Oslo date does not fit with when I want to go back to Norway. I guess Poznan is only 3 hours away...  
-In any case, I think I know one or two people that are mighty jealous of me right now. And they ought to be.
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][4]
+Here is the opening track, Beyond the Flames.
 
-[0]: http://www.gojira-music.com/
-[1]: http://www.myspace.com/gojira
-[2]: http://www.knaack-berlin.de/
-[3]: http://www.trinitymusic.de/
-[4]: http://www.jonnor.com/wp/?flattrss_redirect&id=257&md5=8ab7099ac36e078ba71a5a79dfa12c3b
+My favorite tracks include the slower [Blood Red Diamond][1] and the kicking closing track Assimulate, Destroy. You can find the album [on Amazon][2].
+
+Sadly the band [had a car accident][3] on their first European tour in late May, which left the drummer with a broken leg and having to undergo surgery. [A news post comment][4] from the drummer, and [a recent interview][5] seems to indicate that the recovery so far is going OK. Hopefully he will be fully recovered, back to playing drums, soon.
+
+A friend told me that I should blog about music again. This was a shot at doing just that.
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][6]
+
+[0]: http://lostinthoughtband.com/Default.aspx
+[1]: http://www.youtube.com/watch?v=vfCGJXzFofM
+[2]: http://www.amazon.com/Opus-Arise-Lost-Thought/dp/B004SFIN3E
+[3]: http://www.bbc.co.uk/news/uk-wales-south-west-wales-13521199
+[4]: http://www.serenity-band.com/index.php/newsarticle/items/lost-in-thought-car-accident.html
+[5]: http://www.therocktologist.com/lost-in-thought-interview.html
+[6]: http://www.jonnor.com/wp/?flattrss_redirect&id=441&md5=c6a4fe427fc2820b9294a6478ffe1686
