@@ -7,22 +7,22 @@ publisher:
   favicon: null
   domain: www.jonnor.com
 keywords:
-  - tragedy
-  - mask
-  - pretending
-  - hide
-  - solution
-  - else
-  - someone
-  - everything
-  - quick
-  - friends
-description: "It's a tragedy, that some hide behind a mask. Pretending that everything is good, pretending to be someone else. It's a tragedy, that the mask is never dropped. Not for friends, not for family. It's a tragedy, that some find life so hard That a quick end seems the best solution."
+  - favorites
+  - oddity
+  - advent
+  - christmas
+  - posts
+  - occasional
+  - albums
+  - calendar
+  - disappointments
+  - otherwise
+description: "I originally planned on doing a post on some of my favorite albums of 2009. But I was having some trouble picking out only a few, and I don't really want to limit myself to my favorites. So I'm doing a series of posts, showing some favorites, some disappointments and the occasional oddity (musical or otherwise)."
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:15:36.459Z'
-dateModified: '2016-02-13T18:05:16.731Z'
+datePublished: '2016-02-13T18:15:36.488Z'
+dateModified: '2016-02-13T18:05:30.834Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,18 +35,7 @@ _type: Article
 ---
 # Jon Nordby
 
-It's a tragedy, that some hide behind a mask.  
-Pretending that everything is good,  
-pretending to be someone else.  
-It's a tragedy, that the mask is never dropped.  
-Not for friends,  
-not for family.
-
-It's a tragedy, that some find life so hard  
-That a quick end seems the best solution.  
-It's a tragedy, and it happens every day.
-
-To H.
+I originally planned on doing a post on some of my favorite albums of 2009\. But I was having some trouble picking out only a few, and I don't really want to limit myself to my favorites. So I'm doing a series of posts, showing some favorites, some disappointments and the occasional oddity (musical or otherwise). Consider it a kind a of Christmas/advent calendar, if you want.
 [![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][0]
 
-[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=168&md5=231cb41277028586c09c4d5fd2009647
+[0]: http://www.jonnor.com/wp/?flattrss_redirect&id=85&md5=b1c53042187d01991f7ba76934286b1f
