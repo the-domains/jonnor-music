@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 18:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 18:10:25 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jon Nordby]]></title>
+            <description><![CDATA[<article><h1>Jon Nordby</h1><p>Whaaat, something not metal?  And no, I'm not gonna slaughter it. Cause I actually like it, and have in fact listened to it quite a bit. Yes, its cheesy as hell, and is nothing special far as musicianship go. But quite frankly, its catchy as hell and straight out rockin'. Can't resist it!</p></article>]]></description>
+            <link>http://music.jonnor.com/jon-nordby/index.html</link>
+            <guid isPermaLink="false">523244ec-058f-4e44-b9b8-7698896819d1</guid>
+            <pubDate>Sat, 13 Feb 2016 18:09:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jon Nordby]]></title>
             <description><![CDATA[<article><h1>Jon Nordby</h1><p>If you're a fan of traditional progressive metal, you might want to check out Lost in Thought s debut album: Opus Arise.</p></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Íon- Believe</h1><p>4 Picture video Lyrics Below: The cold earth slept whilst I lived in enmity I was too inept to see the light that shadowed me ...or believe I'm fearless now, as mothers watching over me As I'll watch over you, whilst we drift into infinity Pragmatize, throw the darkness to the wind And purify your heart from the feculence of sin Be free from fear, Believe Be free from fear, Believe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f94977deacf3ae71ece1a054634a060cb3a69707.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=cTuvqzWFcKI</link>
             <guid isPermaLink="false">9df84d4e-521a-4dad-8f57-fb3d86b4efb6</guid>
-            <pubDate>Mon, 30 Nov 2015 19:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Siouxsie And The Banshees - Happy House]]></title>
-            <description><![CDATA[<article><h1>Siouxsie And The Banshees - Happy House</h1><p>Music video by Siouxsie And The Banshees performing Happy House. (C) 2014 UMC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7022bc2b4d317a6d20f4ff4429514c4b63b754d.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=amR6-neQBPE</link>
-            <guid isPermaLink="false">cb5e8af9-457a-4bb9-9e62-ff1a4191d679</guid>
             <pubDate>Mon, 30 Nov 2015 19:02:51 GMT</pubDate>
         </item>
     </channel>
