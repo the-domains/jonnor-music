@@ -7,22 +7,22 @@ publisher:
   favicon: null
   domain: www.jonnor.com
 keywords:
+  - sieges
   - album
-  - kamelot
-  - oliver
+  - paramount
+  - navigating
+  - wankery
   - metal
-  - prog
-  - palotai
-  - symphonic
-  - keyboardist
-  - napalm
-  - aggressive
-description: 'Sons of Seasons was founded by Kamelot keyboardist Oliver Palotai in 2007, and this is their debut album. I actually did not know that until just now when I looked it up on Wikipedia, so this band was entirely new to me when I first hear this album back in June.'
+  - harder
+  - webshop
+  - menses
+  - arno
+description: 'Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens.'
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:07.185Z'
-dateModified: '2016-02-13T18:05:30.218Z'
+datePublished: '2016-02-13T18:09:07.184Z'
+dateModified: '2016-02-13T18:05:29.898Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,13 +35,12 @@ _type: Article
 ---
 # Jon Nordby
 
-[Sons of Seasons][0] was founded by Kamelot keyboardist Oliver Palotai in 2007, and this is their debut album. I actually did not know that until just now when I looked it up on Wikipedia, so this band was entirely new to me when I first hear this album back in June.
+Subsignal emerged from the ashes after the german progressive metal band Sieges Even split up about a year ago. On-board is lead vocalist from Sieges Evens last two albums ("Art of Navigating by the Stars" and "Paramount"), Arno Menses and the lead guitarist, Markus Steffens. As I am a huge fan of those two album, this release was filled with both excitement and a bit of anxiousness. Will they try to do the same and fail? Will it be something entirely different? Awesome different or crappy different?
 
-If one is to compare with the recent Kamelot albums this tones the power and symphonic aspects down significantly, instead being more progressive and aggressive. Some might see this as a surprise, but the keyboards actually dominate a lot less! And I think most will see that as a good thing. Maybe its because Oliver is also doing guitars.  
-My favorite track is definitively the title track (and intro leading up to it), varied and polished like prog metal should be. The vocals are what I find the most refreshing; mostly clean but ranging from snarls to straight out aggressive to tentative and soothing.
+I've heard through it a number of times the last week and a half, and I can say that it is very much in the same direction as Paramount. Meaning that the music is mostly on the soft side (yet with plenty of contrasting harder parts), progressive and technical but without wankery. While some are probably disappointed that its not harder or more aggressive ("you call that metal!?") and find the lead/backing vocal interaction a bit cheesy, it's exactly what I loved about Sieges Even. Hard to tell if I will come back to this album again and again as I do with Paramount and Art of Navigating by the Stars, but right here and now _it's perfect_.
 
-Seeing as they signed straight to Napalm Records I guess that there is someone out there that agrees with me in that this is a pretty good album and debut. Looking forward to hear more from them. Recommended for everyone thats into progressive metal and looking for something new!
+Youtube has plenty of songs from the album if you want to hear more, or you can just go buy it from [their webshop][0].
 [![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][1]
 
-[0]: http://www.sonsofseasons.com/
-[1]: http://www.jonnor.com/wp/?flattrss_redirect&id=82&md5=a9a4f4e39395dfc77df24dd3dcf296e0
+[0]: http://www.subsignalband.com/shop/index.php
+[1]: http://www.jonnor.com/wp/?flattrss_redirect&id=104&md5=53f105e08743d44636401b583abe68cd
