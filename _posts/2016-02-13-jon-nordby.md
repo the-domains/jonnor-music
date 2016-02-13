@@ -8,21 +8,21 @@ publisher:
   domain: www.jonnor.com
 keywords:
   - album
-  - intro
-  - song
-  - gothic
-  - theatre
-  - variation
-  - verse
+  - opus
+  - drummer
+  - arise
+  - track
+  - assimulate
   - metal
-  - okey
-  - da-da-da-da-da-da
-description: "The bands mentioned in the title have some commonalities: All are female fronted bands in the gothic metal genre or there about All have albums that I'm a big fan of (tho those are a bit old) All released new albums this year (\"Forever is the World\", \"Shallow Life\", \"the 13th Floor\" respectivly) All the new albums were major disappointments."
+  - musicianship
+  - band
+  - progressive
+description: "If you're a fan of traditional progressive metal, you might want to check out Lost in Thought s debut album: Opus Arise. Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar."
 inLanguage: en
 app_links: []
 title: Jon Nordby
-datePublished: '2016-02-13T18:09:07.293Z'
-dateModified: '2016-02-13T18:05:27.887Z'
+datePublished: '2016-02-13T18:09:07.591Z'
+dateModified: '2016-02-13T18:05:25.680Z'
 sourcePath: _posts/2016-02-13-jon-nordby.md
 published: true
 inFeed: true
@@ -35,28 +35,23 @@ _type: Article
 ---
 # Jon Nordby
 
-The bands mentioned in the title have some commonalities:
+If you're a fan of traditional progressive metal, you might want to check out [Lost in Thought][0] s debut album: Opus Arise.
 
-All are female fronted bands in the gothic metal genre or there about  
-All have albums that I'm a big fan of (tho those are a bit old)  
-All released new albums this year ("Forever is the World", "Shallow Life", "the 13th Floor" respectivly)  
-All the new albums were major disappointments. At least for me
+Released April 29th this year, Opus Arise features some very solid songwriting much in the style of Dream Theater and similar bands. The musicianship is generally excellent, and the production is stellar. On the downside, this is not a very original album by any measure, you will not find too many fresh ideas or expressions in this album. So if you're looking for something that takes progressive metal in a new direction; look elsewhere.
 
-Now, I'm not ruling out that my taste in music has changed or that I'm otherwise biased. But in any case the end result is the same; I'm enjoying these albums less than the previous ones.
+Here is the opening track, Beyond the Flames.
 
-Both Theatre of Tradegy and Sirenia have new female vocalists, and I think that they are most of the problem. They just seem like such dolls! There is nothing wrong with their singing per se, but it seems thin, pale and lifeless. Where is the variation, contrast and edge? [Gone][0].
+My favorite tracks include the slower [Blood Red Diamond][1] and the kicking closing track Assimulate, Destroy. You can find the album [on Amazon][2].
 
-In Theatre of Tragedy I'm also missing the previous cybergoth/electronica influence so [prominent on][1] Assembly (2002) and more blended in with gothic metal on Storm (2006). Now it just feels plain.
+Sadly the band [had a car accident][3] on their first European tour in late May, which left the drummer with a broken leg and having to undergo surgery. [A news post comment][4] from the drummer, and [a recent interview][5] seems to indicate that the recovery so far is going OK. Hopefully he will be fully recovered, back to playing drums, soon.
 
-As for Lacuna Coil here is a song illustrating the decline?\*
+A friend told me that I should blog about music again. This was a shot at doing just that.
+[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][6]
 
-The intro is not good, and when the insanely stock riff after that comes in the refrain; Da-da-da-da-da-da I'm thinking - "okey, this sucks". That thought never really left. The verses that follows are just a tiny variation of the intro, and the entire song is just intro-\>refain-\>verse-\>REPEAT. Original huh. And the lyrics could just as easily have been used for Britneys next hit when you think about it. Not to mention the "fake" bass beats that are used for emphasis on several spots. Ugh.
-
-But I bet the record company, MTV and casual listeners were pleased. In their world it doesn't take more than a pretty chick (that she has a bit of attitude helps too) and to keep the music generic enough to be "accessible" to make a "great song". I sometimes wish that I too was that easy to please. But not today. \*puts on Epica - the Divine Conspiracy\*
-
-\* to be fair, this is probably the worst song on the album. If you want to check out one that I actually think is pretty good, check track 1: Survive
-[![](http://www.jonnor.com/wp/wp-content/plugins/flattr/img/flattr-badge-large.png)][2]
-
-[0]: http://www.youtube.com/watch?v=hyPCC_mdwzE
-[1]: http://www.youtube.com/watch?v=qu2k-r5DF6s
-[2]: http://www.jonnor.com/wp/?flattrss_redirect&id=109&md5=e1439dff9ff8d1d7c05a683305f3abef
+[0]: http://lostinthoughtband.com/Default.aspx
+[1]: http://www.youtube.com/watch?v=vfCGJXzFofM
+[2]: http://www.amazon.com/Opus-Arise-Lost-Thought/dp/B004SFIN3E
+[3]: http://www.bbc.co.uk/news/uk-wales-south-west-wales-13521199
+[4]: http://www.serenity-band.com/index.php/newsarticle/items/lost-in-thought-car-accident.html
+[5]: http://www.therocktologist.com/lost-in-thought-interview.html
+[6]: http://www.jonnor.com/wp/?flattrss_redirect&id=441&md5=c6a4fe427fc2820b9294a6478ffe1686
