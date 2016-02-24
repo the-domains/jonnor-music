@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 20:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 12:37:26 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Subsignal - To Hope The Road Is Long]]></title>
+            <description><![CDATA[<article><h1>Subsignal - To Hope The Road Is Long</h1><p>One of my favourite Subsignal songs taken from 2009 album Beautiful & Monstrous</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dca54102a29d4f73035050f69e3d57001233a8f2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-riIQwteknU</link>
+            <guid isPermaLink="false">44ef01a2-293e-4c74-8be8-c1fab2b3c60f</guid>
+            <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Depeche Mode - Policy Of Truth (Video)]]></title>
             <description><![CDATA[<article><h1>Depeche Mode - Policy Of Truth (Video)</h1><p>© 2007 WMG Policy Of Truth (Video)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ced331cfaad32a0ccb299071cc5f103f0ac6b472.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.jonnor.com/2009/12/irepress-sol-eye-sea-i/</link>
             <guid isPermaLink="false">88221869-9fd0-4bd7-8690-537bbec9fcb0</guid>
             <pubDate>Sat, 13 Feb 2016 22:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berlin concerts awesomeness]]></title>
-            <description><![CDATA[<article><h1>Berlin concerts awesomeness</h1><p>A few weeks back I saw Gojira (warning: horrible flash based site, even the myspace page is better) at Knaack here in Berlin. While I hadn't listened to Gojira much before going, it was a great show. Nice venue, sound was good, kick-ass music and performance, and the crowd loved it. What more can you ask for? The event was promoted by a company called Trinity Concerts, and apparently they do a whole bunch of good stuff this autumn. Here are the ones I plan to go to between now and Christmas:</p></article>]]></description>
-            <link>http://www.jonnor.com/2010/09/berlin-concerts-awesomeness/</link>
-            <guid isPermaLink="false">524c547b-0868-4e6a-89c6-d29963643ed1</guid>
-            <pubDate>Sat, 13 Feb 2016 22:29:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
