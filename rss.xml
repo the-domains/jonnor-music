@@ -4,22 +4,8 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 12:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 12:37:29 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Gossamer - Run]]></title>
-            <description><![CDATA[<article><h1>Gossamer - Run</h1><p>Video of the song Run performed by Gossamer from their Carpe Mortem release Closure. Directed by James Dinan</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=wF7aoccjCCo&amp;index=59&amp;list=PLB2CD92050E0F9B8E</link>
-            <guid isPermaLink="false">a528eed7-ce3f-412b-9ffc-3e8a75c6080c</guid>
-            <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bel canto - shoulder to the wheel (full)]]></title>
-            <description><![CDATA[<article><h1>bel canto - shoulder to the wheel (full)</h1><p>music video</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=RcZDL6dQA0M&amp;list=PLnwhOKUwbipNotPj3BChA8Skg4hvd5zQz&amp;index=33</link>
-            <guid isPermaLink="false">edb3ffcd-1594-4c78-969d-c9e88178650e</guid>
-            <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Xmal Deutschland - Mondlicht [Video]]]></title>
             <description><![CDATA[<article><h1>Xmal Deutschland - Mondlicht [Video]</h1><p>Xmal Deutschland - Mondlicht 1984 ♪ [Dexbam-Remastered] This mondlicht-video is not official, its a dexbam-video. R.I.P. Peter Bellendir [Xmal-Drummer] 18. 12. 1955 - 3. 2. 2013 http://www.poison-door.net/xmaldeutschland/peterbellendir.png</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.jonnor.com/2010/06/its-a-tragedy/</link>
             <guid isPermaLink="false">487e440c-ac67-4364-8b0b-6f4f63867963</guid>
             <pubDate>Sat, 13 Feb 2016 22:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musical highlights of 2009 – wrap up]]></title>
+            <description><![CDATA[<article><h1>Musical highlights of 2009 – wrap up</h1><h2>Ups</h2><p>Have you ever basically completed an email but not sent it, forgot about it and then, when you remember it again, procrastinated on sending it because you didn't send it right away? Well, then you understand this post.  </p></article>]]></description>
+            <link>http://www.jonnor.com/2010/01/musical-highlights-of-2009-wrap-up/</link>
+            <guid isPermaLink="false">2109716b-9d65-4723-874f-cc31234ae74a</guid>
+            <pubDate>Sat, 13 Feb 2016 22:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silent Stream Of Godless Elegy – Návaz]]></title>
+            <description><![CDATA[<article><h1>Silent Stream Of Godless Elegy – Návaz</h1><p>I have a strong preference for music in a language I can understand, if nothing else than for the opportunity to mumble along. But "Návaz", the latest album from Czech band Silent Stream Of Godless Elegy, is a little gem, even if I can't understand a word of the Czech lyrics. Návaz, like the previous albums is a doom metal album with strong influences from Moravian folk music and lore. What I like most about this album are the heavy contrasts: Quick, playful violins against slow, drudging guitar riffs; soft female voice against harsh male voices; traditional folk instruments and musical themes against modern metal.</p></article>]]></description>
+            <link>http://www.jonnor.com/2011/09/silent-stream-of-godless-elegy-navaz/</link>
+            <guid isPermaLink="false">a5e5b413-7a95-4212-97f7-a7459a5ce2fc</guid>
+            <pubDate>Sat, 13 Feb 2016 22:32:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
