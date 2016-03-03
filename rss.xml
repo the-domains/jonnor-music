@@ -4,15 +4,8 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 18:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2016 18:00:31 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Billy Idol - White Wedding Lyrics]]></title>
-            <description><![CDATA[<article><h1>Billy Idol - White Wedding Lyrics</h1><p>I love this song, one of the best by Billy Idol. Lyrics: Hey little sister what have you done? Hey little sister who's the only one? Hey little sister who's your superman? Hey little sister who's the one you want? Hey little sister shot gun! It's a nice day to start again.</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=x9j6DE6RnSk</link>
-            <guid isPermaLink="false">bcf8f8cd-9308-4c08-b174-6dab6ea1b16b</guid>
-            <pubDate>Thu, 03 Mar 2016 17:59:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Type O Negative - Wolf Moon - Underworld]]></title>
             <description><![CDATA[<article><h1>Type O Negative - Wolf Moon - Underworld</h1><p>Underworld movie - Music - Type O Negative - Wolf Moon. ENJOY :-)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/109362c3149d8494aea436b3e888da267007ab06.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=M2VBmHOYpV8</link>
             <guid isPermaLink="false">c9b1483d-af51-4e98-a135-6c9023d00ef1</guid>
             <pubDate>Wed, 17 Feb 2016 20:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Smiths - How Soon Is Now?]]></title>
+            <description><![CDATA[<article><h1>The Smiths - How Soon Is Now?</h1><p>Album: Hatful of Hollow / Year: 1984 / Written by Morrisey and Johnny Marr / Produced by John Porter Lyrics: I am the son and the heir Of a shyness that is criminally vulgar I am the son and heir Of nothing in particular You shut your mouth How can you say I go about things the wrong way?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b457140315b0f5678f6a73fd66f3140e0e22d57b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=pEq8DBxm0J4</link>
+            <guid isPermaLink="false">06287764-5e8c-4a8e-8a8b-26083105db2e</guid>
+            <pubDate>Mon, 15 Feb 2016 20:50:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
