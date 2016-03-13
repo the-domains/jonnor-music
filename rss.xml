@@ -4,15 +4,8 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 18:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 18:30:47 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[the wake - nazarene]]></title>
-            <description><![CDATA[<article><h1>the wake - nazarene</h1><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=xT1lSm1J7TU&amp;list=PLB2CD92050E0F9B8E&amp;index=41</link>
-            <guid isPermaLink="false">0ff6d28d-76f2-4fe3-9448-2dd9fd6f9ab7</guid>
-            <pubDate>Sun, 13 Mar 2016 18:30:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Rosetta Stone - Darkside]]></title>
             <description><![CDATA[<article><h1>Rosetta Stone - Darkside</h1><p>From album "Adrenaline", released in 1993. Content is owned and licensed by The Orchard Music</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>bel canto - shoulder to the wheel (full)</h1><p>music video</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=RcZDL6dQA0M&amp;list=PLnwhOKUwbipNotPj3BChA8Skg4hvd5zQz&amp;index=33</link>
             <guid isPermaLink="false">edb3ffcd-1594-4c78-969d-c9e88178650e</guid>
+            <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xmal Deutschland - Mondlicht [Video]]]></title>
+            <description><![CDATA[<article><h1>Xmal Deutschland - Mondlicht [Video]</h1><p>Xmal Deutschland - Mondlicht 1984 ♪ [Dexbam-Remastered] This mondlicht-video is not official, its a dexbam-video. R.I.P. Peter Bellendir [Xmal-Drummer] 18. 12. 1955 - 3. 2. 2013 http://www.poison-door.net/xmaldeutschland/peterbellendir.png</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=-lQswSjRSCA&amp;list=PLWjJQUWSRvJuzImsk8DibhzlmDdupqh_a</link>
+            <guid isPermaLink="false">772ecd4f-e350-4598-8b67-35339bc5156a</guid>
             <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
         </item>
     </channel>
