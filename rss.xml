@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 16:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 16:34:25 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Awakening - The Sound of Silence]]></title>
+            <description><![CDATA[<article><h1>The Awakening - The Sound of Silence</h1><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=tS8s7cBqfK0&amp;index=76&amp;list=PLB2CD92050E0F9B8E</link>
+            <guid isPermaLink="false">adadc675-6bd0-406d-84b2-c0e26e893c61</guid>
+            <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zadera - Fallen]]></title>
             <description><![CDATA[<article><h1>Zadera - Fallen</h1><p>Lyric.]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2ab9442267d0c272d5ee5a6414cc7b07acf48a9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=mJuo7vFK5Lk</link>
             <guid isPermaLink="false">b576d1a9-489c-490d-a6a6-acd9c51fbd1f</guid>
             <pubDate>Thu, 03 Mar 2016 17:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Upper Classes - the Disbeliever - GOTH ROCK]]></title>
-            <description><![CDATA[<article><h1>The Upper Classes - the Disbeliever - GOTH ROCK</h1><p>Swedish Gothic Rock band "THE UPPER CLASSES" http://www.facebook.com/pages/The-Upperclasses/100770156650257?sk=app_2405167945 www.myspace.com/theupperclasses</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=evjQuXSKVQE&amp;list=PLB2CD92050E0F9B8E&amp;index=55</link>
-            <guid isPermaLink="false">1e441ea6-6e9c-4e13-9342-3c3517a5c2a0</guid>
-            <pubDate>Wed, 24 Feb 2016 12:36:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
