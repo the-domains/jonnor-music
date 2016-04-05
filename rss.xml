@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 16:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 16:34:55 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deine Lakaien - Reincarnation]]></title>
+            <description><![CDATA[<article><h1>Deine Lakaien - Reincarnation</h1><p>Deine Lakaien Reincarnation Dark Star 1991</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c459c4aba0de2659fa8a0ecead2d01b658a70fe.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=U7vCm7U3-Bc&amp;index=44&amp;list=PLB2CD92050E0F9B8E</link>
+            <guid isPermaLink="false">548f4791-b275-4fc9-aa4e-4ff7f8a1f637</guid>
+            <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Crüxshadows - Deception]]></title>
             <description><![CDATA[<article><h1>The Crüxshadows - Deception</h1><p>little strange video, but.. great band + great song + strange video = must watch. (:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a9d6e0660dfe7d7d4160e42b190c9554f58ebbe.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=p9kbj_aeO2k</link>
             <guid isPermaLink="false">b7b644cd-b8e9-4e9a-a09d-5fa6d3739c94</guid>
             <pubDate>Thu, 03 Mar 2016 17:59:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Billy Idol - Dancing With Myself]]></title>
-            <description><![CDATA[<article><h1>Billy Idol - Dancing With Myself</h1><p>Official video of Billy Idol performing Dancing With Myself from the album Kiss Me Deadly. Buy It Here: http://smarturl.it/lbq16t The video was directed by Tobe Hooper Like Billy Idol on Facebook: http://www.facebook.com/BillyIdol Follow Billy Idol on Twitter: http://twitter.com/#!/billyidol Official Website: http://billyidol.net/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc08544d2489afe9a76c32688b9b1a4ab170a841.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=FG1NrQYXjLU</link>
-            <guid isPermaLink="false">00f1562c-9315-4780-8a89-625c02a79a41</guid>
-            <pubDate>Thu, 03 Mar 2016 17:59:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
