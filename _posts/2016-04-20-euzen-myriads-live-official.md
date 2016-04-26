@@ -1,14 +1,7 @@
 ---
-author:
-  - name: euzeniverse
-    url: 'https://www.youtube.com/user/euzeniverse'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtube.com
+datePublished: '2016-04-26T16:02:44.587Z'
+sourcePath: _posts/2016-04-20-euzen-myriads-live-official.md
+isBasedOnUrl: 'https://youtube.com/watch?v=7A8DIkhTCpE'
 keywords:
   - euzen
   - duration
@@ -20,8 +13,14 @@ keywords:
   - valravn
   - christophereuzen
   - metamorph
-description: 'https://open.spotify.com/artist/5JrbFyw3Hxe165XkCJPjui https://www.facebook.com/euzeniverse http://euzen.dk Recorded live @ UT Connewitz, Leipzig, DE 2013'
-inLanguage: en
+related: []
+author:
+  - name: euzeniverse
+    url: 'https://www.youtube.com/user/euzeniverse'
+    avatar: {}
+published: true
+dateModified: '2016-04-26T16:02:44.355Z'
+title: 'EUZEN - Myriads LIVE [Official]'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7A8DIkhTCpE&feature=applinks'
     type: ios
@@ -59,18 +58,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtube.com/watch?v=7A8DIkhTCpE'
-title: 'EUZEN - Myriads LIVE [Official]'
-datePublished: '2016-04-26T15:57:12.879Z'
-dateModified: '2016-04-26T15:57:12.776Z'
-sourcePath: _posts/2016-04-20-euzen-myriads-live-official.md
-published: true
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: youtube.com
+description: 'One of my latest addictions!'
+inLanguage: en
 starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7A8DIkhTCpE%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7A8DIkhTCpE&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7A8DIkhTCpE%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+One of my latest addictions!
