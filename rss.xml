@@ -4,8 +4,15 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 15:57:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 16:02:45 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
+            <description><![CDATA[<article><h1>EUZEN - Myriads LIVE [Official]</h1><p>One of my latest addictions!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2815990516506061336c18ac7dc167527332e21.jpg"></article>]]></description>
+            <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
+            <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
+            <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
             <description><![CDATA[<article><h1>EUZEN - Myriads LIVE [Official]</h1><p>https://open.spotify.com/artist/5JrbFyw3Hxe165XkCJPjui https://www.facebook.com/euzeniverse http://euzen.dk Recorded live @ UT Connewitz, Leipzig, DE 2013</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2815990516506061336c18ac7dc167527332e21.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=xT1lSm1J7TU&amp;list=PLB2CD92050E0F9B8E&amp;index=41</link>
             <guid isPermaLink="false">0ff6d28d-76f2-4fe3-9448-2dd9fd6f9ab7</guid>
             <pubDate>Sun, 13 Mar 2016 18:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rosetta Stone - Darkside]]></title>
-            <description><![CDATA[<article><h1>Rosetta Stone - Darkside</h1><p>From album "Adrenaline", released in 1993. Content is owned and licensed by The Orchard Music</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=C7HCh6IdaQ8&amp;list=PLB2CD92050E0F9B8E&amp;index=25</link>
-            <guid isPermaLink="false">583b0ec3-3f9b-4853-bd5e-1c57235971e5</guid>
-            <pubDate>Sun, 13 Mar 2016 18:29:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
