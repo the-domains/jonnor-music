@@ -1,20 +1,4 @@
-name: jonnor-music
-favicon: null
-layout_spectrum: 0.81698
 typography_spectrum: 0.5
-title: Those who dance are considered insane by those who cannot hear the music
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.0625
   saturation: 0.8125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.81698
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: jonnor-music
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Those who dance are considered insane by those who cannot hear the music
 purpose: []
