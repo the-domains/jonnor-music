@@ -61,10 +61,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtube.com/watch?v=7A8DIkhTCpE'
 title: 'EUZEN - Myriads LIVE [Official]'
-datePublished: '2016-04-20T19:25:50.642Z'
-dateModified: '2016-04-07T03:09:54.956Z'
+datePublished: '2016-04-26T15:57:12.879Z'
+dateModified: '2016-04-26T15:57:12.776Z'
 sourcePath: _posts/2016-04-20-euzen-myriads-live-official.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
