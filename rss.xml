@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 23:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 23:53:29 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Horatii - Annaline]]></title>
+            <description><![CDATA[<article><h1>The Horatii - Annaline</h1><p>"Annaline" (1995 version) by "The Horatii" from album "Riposte" 1995. Probey best Horatii song in my opinion.1st version available at the tape back at 1991.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_ZSjBZTh8kg&amp;list=PLB2CD92050E0F9B8E&amp;index=74</link>
+            <guid isPermaLink="false">a6cbe5ed-cd4a-4740-8e9f-6b31c58114b7</guid>
+            <pubDate>Mon, 02 May 2016 23:52:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Omnia - Alive @ Castlefest 2015]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=BBQW6MUPI2E</link>
             <guid isPermaLink="false">1fa94cc5-2d2e-4637-ba9c-a36203b76822</guid>
             <pubDate>Mon, 21 Mar 2016 11:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the wake - nazarene]]></title>
-            <description><![CDATA[<article><h1>the wake - nazarene</h1><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=xT1lSm1J7TU&amp;list=PLB2CD92050E0F9B8E&amp;index=41</link>
-            <guid isPermaLink="false">0ff6d28d-76f2-4fe3-9448-2dd9fd6f9ab7</guid>
-            <pubDate>Sun, 13 Mar 2016 18:30:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
