@@ -1,4 +1,4 @@
-typography_spectrum: 0.7869499723892659
+typography_spectrum: 0.2343155776616186
 color:
   brandColors:
     - '#DC3522'
@@ -14,7 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.81698
+layout_spectrum: 0.7205308482516557
 analytics:
   google: null
   facebook: null
