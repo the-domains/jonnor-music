@@ -1,7 +1,7 @@
 name: Music Jonnor
 favicon: null
-layout_spectrum: 0.9624980138614774
-typography_spectrum: 0.931284217396751
+layout_spectrum: 0.14525704341940582
+typography_spectrum: 0.9515400719828904
 title: Those who dance are considered insane by those who cannot hear the music
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.1424816008657217
-  lightness: 0.014002270763739944
-  saturation: 0.32054692949168384
-  rhythmicContrast: 0.3649632374290377
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.2716386504471302
+  lightness: 0.8762311702594161
+  saturation: 0.3340124459937215
+  rhythmicContrast: 0.2544677935075015
 purpose: []
