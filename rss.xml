@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 12:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 22:25:08 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead Can Dance - The Host Of Seraphim]]></title>
+            <description><![CDATA[<article><h1>Dead Can Dance - The Host Of Seraphim</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e1458ffdaf574cb135a7216e6e8686aa797475.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QJhVM930YXY</link>
+            <guid isPermaLink="false">36a4c404-91e4-4510-9e42-83516c6d028d</guid>
+            <pubDate>Mon, 06 Jun 2016 22:25:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Megadeth - Tornado Of Souls (Lyrics)]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=p4oGhlrwBLc</link>
             <guid isPermaLink="false">9b39431e-d4d3-4b16-9a36-daa262022bad</guid>
             <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lake of Tears- Nathalie and the Fireflies [HD- Lyrics in description]]]></title>
-            <description><![CDATA[<article><h1>Lake of Tears- Nathalie and the Fireflies [HD- Lyrics in description]</h1><p>Comes the morning with scarlet and black for you maybe Past the sun hides the one with fires anew Soon to be gone, morning comes more for me lately Comes the morning with scarlet and black for you to Oh, do they come there anew Comes the morning with sorrow</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc08f9c9663f4ffff3b8d8bb878bfd98257a7648.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=BBQW6MUPI2E</link>
-            <guid isPermaLink="false">1fa94cc5-2d2e-4637-ba9c-a36203b76822</guid>
-            <pubDate>Mon, 21 Mar 2016 11:46:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
