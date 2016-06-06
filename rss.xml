@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 22:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 22:25:35 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Dead Can Dance - The Host Of Seraphim</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e1458ffdaf574cb135a7216e6e8686aa797475.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=QJhVM930YXY</link>
             <guid isPermaLink="false">36a4c404-91e4-4510-9e42-83516c6d028d</guid>
+            <pubDate>Mon, 06 Jun 2016 22:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Batzz In The Belfry ~ Star In A Dark Sky]]></title>
+            <description><![CDATA[<article><h1>Batzz In The Belfry ~ Star In A Dark Sky</h1><p>Batzz In The Belfry - Pendulum (2013) https://www.facebook.com/pages/BATZZ-in-the-belfry/209396946799?sk=timeline</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=A1hne-YFrbw&amp;index=113&amp;list=PLB2CD92050E0F9B8E</link>
+            <guid isPermaLink="false">9714c006-5052-4748-b6e6-061bab390b4e</guid>
             <pubDate>Mon, 06 Jun 2016 22:25:05 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLB2CD92050E0F9B8E&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtS8s7cBqfK0%26index%3D76%26list%3DPLB2CD92050E0F9B8E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtS8s7cBqfK0%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen"></iframe>]]></description>
             <link>https://www.youtube.com/watch?v=tS8s7cBqfK0&amp;index=76&amp;list=PLB2CD92050E0F9B8E</link>
             <guid isPermaLink="false">adadc675-6bd0-406d-84b2-c0e26e893c61</guid>
-            <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zadera - Fallen]]></title>
-            <description><![CDATA[<article><h1>Zadera - Fallen</h1><p>Lyric.]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2ab9442267d0c272d5ee5a6414cc7b07acf48a9.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=p4oGhlrwBLc</link>
-            <guid isPermaLink="false">9b39431e-d4d3-4b16-9a36-daa262022bad</guid>
             <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
         </item>
     </channel>
