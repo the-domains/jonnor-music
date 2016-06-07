@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 11:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 11:18:43 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
@@ -12,6 +12,20 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zeromancer - Clone Your Lover]]></title>
+            <description><![CDATA[<article><h1>Zeromancer - Clone Your Lover</h1><p>Zeromancer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ede7a9dbb73c51503ff829fe56148befe2ca643.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=M6ft0j0Ok2E</link>
+            <guid isPermaLink="false">aba2eb16-72b3-4e63-b70f-3760f911f12d</guid>
+            <pubDate>Tue, 07 Jun 2016 11:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seigmen - Döderlein]]></title>
+            <description><![CDATA[<article><h1>Seigmen - Döderlein</h1><p>Live video of "Döderlein" from Seigmen´s reunion show in 2005</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jjvJPLLriII&amp;list=PL688D053C51574B9C</link>
+            <guid isPermaLink="false">c4b4b3e8-6087-4fd7-99f0-0e38c9399b03</guid>
+            <pubDate>Tue, 07 Jun 2016 11:18:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seigmen - Hjernen Er Alene (Dødens.Dal.Live)]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=MpS16zVpLpE</link>
             <guid isPermaLink="false">1eb43ac3-28d8-444a-aa98-829d22394335</guid>
             <pubDate>Tue, 24 May 2016 10:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Horatii - Annaline]]></title>
-            <description><![CDATA[<article><h1>The Horatii - Annaline</h1><p>"Annaline" (1995 version) by "The Horatii" from album "Riposte" 1995. Probey best Horatii song in my opinion.1st version available at the tape back at 1991.</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_ZSjBZTh8kg&amp;list=PLB2CD92050E0F9B8E&amp;index=74</link>
-            <guid isPermaLink="false">a6cbe5ed-cd4a-4740-8e9f-6b31c58114b7</guid>
-            <pubDate>Mon, 02 May 2016 23:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EUZEN - Judged By LIVE [Official]]]></title>
-            <description><![CDATA[<article><h1>EUZEN - Judged By LIVE [Official]</h1><p>https://open.spotify.com/artist/5JrbFyw3Hxe165XkCJPjui https://www.facebook.com/euzeniverse http://euzen.dk Judged By LIVE in Europe. The audio is recorded at Rudolstadt TFF, DE The video is captured at: Colours of Ostrava, CZ Castlefest, NL WGT, DE Colos-Saal, DE This video is part of the extra material of the new EUZEN LIVE DVD. A big thank you to all who filmed the shows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e48b649d7b006d449f32a514f4bb6c1fffea6e7.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=6DqE5Q1qeIA</link>
-            <guid isPermaLink="false">1cb70fc7-3c33-4c13-9305-166f24b8798f</guid>
-            <pubDate>Wed, 20 Apr 2016 19:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
