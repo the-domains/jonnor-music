@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 10:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 10:57:54 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EUZEN - Myriads LIVE [Official]]]></title>
@@ -12,13 +12,6 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[paradise lost Erased]]></title>
-            <description><![CDATA[<article><h1>paradise lost Erased</h1><p>Erased from paradise Lost</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=xjQtMioX6z4</link>
-            <guid isPermaLink="false">9f22f8b6-98d3-4b5a-bfae-d288e713ec42</guid>
-            <pubDate>Tue, 07 Jun 2016 10:57:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Paradise Lost - Two Worlds]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Deine Lakaien - Reincarnation</h1><p>Deine Lakaien Reincarnation Dark Star 1991</p></article>]]></description>
             <link>https://www.youtube.com/watch?v=U7vCm7U3-Bc&amp;index=44&amp;list=PLB2CD92050E0F9B8E</link>
             <guid isPermaLink="false">548f4791-b275-4fc9-aa4e-4ff7f8a1f637</guid>
+            <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Crüxshadows - Deception]]></title>
+            <description><![CDATA[<article><h1>The Crüxshadows - Deception</h1><p>little strange video, but.. great band + great song + strange video = must watch. (:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a9d6e0660dfe7d7d4160e42b190c9554f58ebbe.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qGjK6hKahU8</link>
+            <guid isPermaLink="false">4a0669d6-ab5e-49db-b6fc-4de27fb599f8</guid>
             <pubDate>Tue, 05 Apr 2016 16:34:01 GMT</pubDate>
         </item>
     </channel>
