@@ -65,10 +65,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Su3URPuga0s'
 title: Centhron - Dreckstück
-datePublished: '2016-06-07T11:27:04.100Z'
-dateModified: '2016-06-07T11:26:22.279Z'
-starred: false
+datePublished: '2016-06-07T11:28:27.274Z'
+dateModified: '2016-06-07T11:28:26.714Z'
 sourcePath: _posts/2016-06-07-centhron-dreckstuck.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
