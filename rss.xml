@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 11:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 19:29:48 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Centhron - Dreckstück]]></title>
@@ -19,6 +19,13 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Communion After Dark - June 6, 2016 Edition: Sex with an Alligator]]></title>
+            <description><![CDATA[<article><h1>Communion After Dark - June 6, 2016 Edition: Sex with an Alligator</h1><p>Our June 6 episode is now available! Communion After Dark spins new music from Vanguard, Intent:Outtake, nTTx and more. Guest: Alfa Matrix artist Simon Carter of Studio-X Vs. Simon Carter!</p><img src="http://static1.squarespace.com/static/51b35336e4b0b6f8003ec525/t/5756f205555986d93d20e746/1465315851103/?format=1000w"></article>]]></description>
+            <link>https://communionafterdark.squarespace.com/listennow/sexwithanalligator</link>
+            <guid isPermaLink="false">348c6929-4b93-4a52-ac9b-7b62e23c8fab</guid>
+            <pubDate>Wed, 08 Jun 2016 19:28:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>paradise lost Erased</h1><p>Erased from paradise Lost</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34e9259c6c71ba3d07d51b244ee2385a54a719c2.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=xjQtMioX6z4</link>
             <guid isPermaLink="false">9f22f8b6-98d3-4b5a-bfae-d288e713ec42</guid>
-            <pubDate>Tue, 07 Jun 2016 10:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paradise Lost - Two Worlds]]></title>
-            <description><![CDATA[<article><h1>Paradise Lost - Two Worlds</h1><p>Album: Symbol Of Life</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=I4QURhDRauE&amp;index=3&amp;list=PLaKGqsgrt0cLP3uyfK9DlN3z_mkIOXkyg</link>
-            <guid isPermaLink="false">26b70c74-a84e-49f3-a54d-0120a8d307d1</guid>
             <pubDate>Tue, 07 Jun 2016 10:57:50 GMT</pubDate>
         </item>
     </channel>
