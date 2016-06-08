@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 19:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 19:36:18 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Centhron - Dreckstück]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New Subsignal album in October. Available for preorder now! https://youtu.be/R5bTMqngTE8?t=93 ... #progrock</p>]]></description>
+            <link>https://twitter.com/jononor/status/652083642798338049</link>
+            <guid isPermaLink="false">c3312d62-ec99-4f79-a8f9-4cdfb4a25ebb</guid>
+            <pubDate>Wed, 08 Jun 2016 19:36:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dear Strange - The Unicorn (Official Video Clip)]]></title>
-            <description><![CDATA[<article><h1>Dear Strange - The Unicorn (Official Video Clip)</h1><p>From the Album "Lonely Heroes", buy it here: http://www.outofline.de/albumteaser/dearstrange_lonelyheroes.html Music by Romain Frequency Lyrics and Vocals by Dorian E Out Of Line Music www.outofline.de, www.outoflineshop.de, www.outofline.tv, www.facebook.com/outoflinelabel, www.twitter.com/outofline VIDEO CREDITS: Directed by Carlo Roberti www.carloroberti.com Video production by Solobuio Visual Factory www.solobuio.com Written and edited by Carlo Roberti and Marco Colassi D.o.p.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Dear Strange - The Unicorn (Official Video Clip)</h1><p>From the Album "Lonely Heroes", buy it here: http://www.outofline.de/albumteaser/dearstrange_lonelyheroes.html Music by Romain Frequency Lyrics and Vocals by Dorian E Out Of Line Music www.outofline.de, www.outoflineshop.de, www.outofline.tv, www.facebook.com/outoflinelabel, www.twitter.com/outofline VIDEO CREDITS: Directed by Carlo Roberti www.carloroberti.com Video production by Solobuio Visual Factory www.solobuio.com Written and edited by Carlo Roberti and Marco Colassi D.o.p.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21b245b09a67493caeba5b949d1eab8b5c1f16db.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=TLxKwgYVGRk</link>
             <guid isPermaLink="false">08197e17-59fc-4f81-a501-67b812c74a12</guid>
             <pubDate>Wed, 08 Jun 2016 19:28:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jjvJPLLriII&amp;list=PL688D053C51574B9C</link>
             <guid isPermaLink="false">c4b4b3e8-6087-4fd7-99f0-0e38c9399b03</guid>
             <pubDate>Tue, 07 Jun 2016 11:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seigmen - Hjernen Er Alene (Dødens.Dal.Live)]]></title>
-            <description><![CDATA[<article><h1>Seigmen - Hjernen Er Alene (Dødens.Dal.Live)</h1><p>2005 please purchase this awesome DVD at thegarden.no</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86d06ed88a49e23f6c8bd063055b6b5df7c375da.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=6sPhxPB4LLw</link>
-            <guid isPermaLink="false">56d6f332-531c-457b-ad62-4c8d1a82a7ae</guid>
-            <pubDate>Tue, 07 Jun 2016 11:14:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
