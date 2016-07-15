@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 19:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 02:15:50 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Centhron - Dreckstück]]></title>
@@ -19,6 +19,20 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Folk Noir - Autumn Tree (Live at Castlefest 2015)]]></title>
+            <description><![CDATA[<article><h1>Folk Noir - Autumn Tree (Live at Castlefest 2015)</h1><p>Folk Noir is: Livy Pear - Vocals, Bass, A-Guitar Oliver S.Tyr - Vocals, Bouzouki, A-Guitar Stephan Groth - Hurdy Gurdy, Keys, Vocals, Flute Alex Schulz - Drums, Sampler Audiomix & Videopostproduction: Alex Schulz at Tonschale Studio Video Crew: Director : Guido Becker Camera : Jurgen van Dorp, Reinier van Dorp, Fabian Thenu, Sebastiaan Cornelisse Mobile video: Line Vallø Albertesen Shading : Chantal Bleumink Technical support : Joost Jansen, Ivo Plasmeijer, Arjan de Groot OPL : Erik Wildeman</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8f830bc6e9b8d1fcd7c29a3ad296795b/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5obU4mMJdnw%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=5obU4mMJdnw</link>
+            <guid isPermaLink="false">077b36fe-a323-4148-b906-8503b93a310f</guid>
+            <pubDate>Fri, 15 Jul 2016 02:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Faderhead - Escape Gravity]]></title>
+            <description><![CDATA[<article><h1>Faderhead - Escape Gravity</h1><p>All rights reserved by the respective copyright owners.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d6994428730d12b1c63c5f5170ddf57/croprotate.jpg?cropheight=360&cropwidth=360&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fclyp_5KU0Co%2Fhqdefault.jpg&x=60&y=0"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=clyp_5KU0Co</link>
+            <guid isPermaLink="false">0bf79c98-8106-404b-b037-db72000f0527</guid>
+            <pubDate>Fri, 15 Jul 2016 02:15:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.youtube.com/watch?v=Bc9_2aND7Dc</link>
             <guid isPermaLink="false">318b6f1d-e7e3-4be5-8db0-ccbaa7f3eb64</guid>
             <pubDate>Tue, 07 Jun 2016 11:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zeromancer - Clone Your Lover]]></title>
-            <description><![CDATA[<article><h1>Zeromancer - Clone Your Lover</h1><p>Zeromancer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ede7a9dbb73c51503ff829fe56148befe2ca643.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=M6ft0j0Ok2E</link>
-            <guid isPermaLink="false">aba2eb16-72b3-4e63-b70f-3760f911f12d</guid>
-            <pubDate>Tue, 07 Jun 2016 11:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seigmen - Döderlein]]></title>
-            <description><![CDATA[<article><h1>Seigmen - Döderlein</h1><p>Live video of "Döderlein" from Seigmen´s reunion show in 2005</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=jjvJPLLriII&amp;list=PL688D053C51574B9C</link>
-            <guid isPermaLink="false">c4b4b3e8-6087-4fd7-99f0-0e38c9399b03</guid>
-            <pubDate>Tue, 07 Jun 2016 11:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
