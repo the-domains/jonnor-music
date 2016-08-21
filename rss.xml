@@ -4,7 +4,7 @@
         <description><![CDATA[Those who dance are considered insane by those who cannot hear the music]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 03:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 03:47:58 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Centhron - Dreckstück]]></title>
@@ -19,6 +19,13 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Human Tetris - People]]></title>
+            <description><![CDATA[<article><h1>Human Tetris - People</h1><p>A very good song from russian Band Human Tetris. I don't own the rights, just want to promote them a bit. You can download the song here for free: http://www.lastfm.de/music/Human+tetris Visit their MySpace Profile for more information: http://www.myspace.com/humantetrismoscow</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed3d07cdd5d81f3cdba004fa8982b69f/croprotate.jpg?cropheight=328&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FwxYBNRcvyIE%2Fhqdefault.jpg&x=0&y=16"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=wxYBNRcvyIE</link>
+            <guid isPermaLink="false">57c3139d-505f-4158-ab97-cc287e334f8f</guid>
+            <pubDate>Sun, 21 Aug 2016 03:47:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Human Tetris - No One]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jononor/status/664803291176542208</link>
             <guid isPermaLink="false">170ec3db-3edc-47ce-bbff-285fd9d24a3e</guid>
             <pubDate>Tue, 07 Jun 2016 11:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valium Era - Fcuk Me]]></title>
-            <description><![CDATA[<article><h1>Valium Era - Fcuk Me</h1><p>CD: Mutation (2009). Model: TwiggX. If you like, please suscribe. Also, Twiggx is not related in any way to the song name or lyrics, but we can dream. And yes, i asked her for permission. Dj Korrosiv.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95b0bcf0ac35d78bcdfb986c62dcfb7f58cb2034.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=sPjGs_p5WPc</link>
-            <guid isPermaLink="false">49d4e89e-82c1-4db8-8cf8-3af9687258de</guid>
-            <pubDate>Tue, 07 Jun 2016 11:27:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
