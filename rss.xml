@@ -4,7 +4,7 @@
         <description><![CDATA[Music, dark & hard]]></description>
         <link>http://music.jonnor.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 04:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 05:15:54 GMT</lastBuildDate>
         <atom:link href="http://music.jonnor.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Centhron - Dreckstück]]></title>
@@ -19,6 +19,13 @@
             <link>https://youtube.com/watch?v=7A8DIkhTCpE</link>
             <guid isPermaLink="false">8ba81cc9-0bdc-4616-ae97-5b83717ef65e</guid>
             <pubDate>Tue, 26 Apr 2016 16:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[God Module - Wasteland]]></title>
+            <description><![CDATA[<article><h1>God Module - Wasteland</h1><p>http://www.last.fm/music/God+Module</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_6SkFWzT988</link>
+            <guid isPermaLink="false">7ea7d875-0fec-41ea-8e35-decf418a119c</guid>
+            <pubDate>Mon, 22 Aug 2016 05:15:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Combichrist - Sent To Destroy]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Electronic Body Music I - Industrial Mix By Atradaemoncia</h1><p>Tracklist: 1.Winterstahl - Self Deception 2.Nachtmahr - Weil ich's kann!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6639845a09263e68f9e6c78f11518079/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fe3M3an0SKyw%2Fhqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=e3M3an0SKyw</link>
             <guid isPermaLink="false">b5ce2b95-984b-4744-a9ca-399c527b2da2</guid>
-            <pubDate>Sun, 21 Aug 2016 03:56:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asphyxia - self deception [HQ]]]></title>
-            <description><![CDATA[<article><h1>asphyxia - self deception [HQ]</h1><p>check out my channel for more great music!!! and please comment! xD thanks</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d6002e7f77d51760b5c066a9ded1a844/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FeUKGgGnFaU4%2Fhqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/eUKGgGnFaU4</link>
-            <guid isPermaLink="false">1b10d5ad-5738-4be4-8905-0c11d1a54998</guid>
             <pubDate>Sun, 21 Aug 2016 03:56:41 GMT</pubDate>
         </item>
     </channel>
